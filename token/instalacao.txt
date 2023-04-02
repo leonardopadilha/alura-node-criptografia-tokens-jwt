@@ -1,0 +1,1 @@
+npm install jsonwebtoken@8.5.1 --save-exact
